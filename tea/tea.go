@@ -24,7 +24,7 @@ import (
 	"time"
 
 	"github.com/alibabacloud-go/debug/debug"
-	"github.com/alibabacloud-go/tea/utils"
+	"github.com/nonbutAworker/tea/utils"
 
 	"golang.org/x/net/proxy"
 )

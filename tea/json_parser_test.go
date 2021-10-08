@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/alibabacloud-go/tea/utils"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/modern-go/reflect2"
+	"github.com/nonbutAworker/tea/utils"
 )
 
 func TestUnmarshal(t *testing.T) {

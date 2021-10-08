@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/alibabacloud-go/tea/utils"
+	"github.com/nonbutAworker/tea/utils"
 )
 
 type test struct {

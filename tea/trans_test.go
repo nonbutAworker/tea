@@ -3,7 +3,7 @@ package tea
 import (
 	"testing"
 
-	"github.com/alibabacloud-go/tea/utils"
+	"github.com/nonbutAworker/tea/utils"
 )
 
 func Test_Trans(t *testing.T) {
